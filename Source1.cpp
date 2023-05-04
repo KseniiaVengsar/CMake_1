@@ -3,8 +3,8 @@
 int main(){
 	setlocale(LC_ALL, "ru");
 	std::string name;
-	std::cout << "Ââåäèòå èìÿ: ";
+	std::cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¸Ð¼Ñ: ";
 	std::cin >> name;
-	std::cout << "Çäðàâñòâóéòå,  "<<name<<"!";
+	std::cout << "Ð—Ð´Ñ€Ð°Ð²ÑÑ‚Ð²ÑƒÐ¹Ñ‚Ðµ,  "<<name<<"!";
 	return 0;
 }
